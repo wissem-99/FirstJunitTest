@@ -42,7 +42,7 @@ public class personne {
     public String toString() {
         return "personne{" +
                 "Cin=" + Cin +
-                ", Nom='" + Nom + '\'' +
+                ", Nom Personne='" + Nom  + '\'' +
                 ", age=" + age +
                 '}';
     }

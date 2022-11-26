@@ -14,7 +14,7 @@ public class Main {
         System.out.println("Donner Age");
         int age = sc.nextInt();
         NewPersonne1.setAge(age);
-        personne NewPersonne2 = new personne(123,"wissem",23);
+        personne NewPersonne2 = new personne(123,"wissem",24);
         System.out.println(NewPersonne1.toString());
         System.out.println(NewPersonne2.toString());
     }
